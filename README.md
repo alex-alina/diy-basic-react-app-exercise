@@ -11,7 +11,6 @@ JavaScript,
 CSS
 
 ## Setup
-Clone the repository.
 To run this project install it locally using yarn:
 ```bash
 yarn install
