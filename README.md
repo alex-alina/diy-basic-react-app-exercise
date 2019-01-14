@@ -11,7 +11,7 @@ JavaScript,
 CSS
 
 ## Setup
-To run this project install it locally using yarn:
+To run this project install the dependencies using yarn:
 ```bash
 yarn install
 ```
