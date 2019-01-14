@@ -11,11 +11,11 @@ JavaScript,
 CSS
 
 ## Setup
-To run this project install the dependencies using yarn:
+Install the dependencies using yarn:
 ```bash
 yarn install
 ```
-Then run it with:
+Then run the project with:
 ```bash
 yarn start
 ```
