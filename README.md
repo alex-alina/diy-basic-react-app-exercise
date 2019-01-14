@@ -6,8 +6,8 @@ Basic React app.
 Practice exercise used to learn React components and explore the props and state concepts.
 
 ## Tech stack
-React
-JavaScript
+React,
+JavaScript,
 CSS
 
 ## Setup
