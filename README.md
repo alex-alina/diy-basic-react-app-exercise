@@ -1,6 +1,6 @@
 ## User Board exercise
 Basic React app.
-[User Board](https://laughing-ptolemy-f2dc23.netlify.com/)
+[User Board demo](https://laughing-ptolemy-f2dc23.netlify.com/)
 
 ## Description
 Practice exercise used to learn React components and explore the props and state concepts.
